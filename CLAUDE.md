@@ -11,8 +11,11 @@ publiable. Il arrive via le template `demo-template` ; adapte la section
   son portfolio [arthurlecomte.fr](https://arthurlecomte.fr), sous
   `/demos/<slug>/`. Ce repo reste la source de vérité du code ; le
   portfolio n'en héberge qu'une copie du build.
-- TODO(arthur) : décrire ici en 2-3 lignes ce que fait le projet et où il
-  en est.
+- **Prisma** : un bac à sable 2D de lumière. On place des lasers (blancs ou
+  colorés) et on sculpte leurs rayons avec miroirs, prismes (vraie
+  dispersion), lentilles convergentes/divergentes, murs et filtres colorés.
+  Rendu néon sur fond sombre (canvas 2D), tactile et souris à égalité,
+  scènes d'exemple, sauvegarde locale. Slug : `prisma`.
 
 ## Règles non négociables
 
